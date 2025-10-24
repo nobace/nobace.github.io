@@ -65,40 +65,31 @@ https://mt01.utako.moe/js4/index.m3u8
 https://mt01.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 https://ca01.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://ca01.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://ca01.utako.moe/skya/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Japan" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs25
-#EXTINF:-1 group-title="Japan" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs24 
-#EXTINF:-1 group-title="Japan" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=2&id=bs31
 
 #EXTINF:-1 group-title="Japan" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
+
 #EXTINF:-1 group-title="Japan" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://mt01.utako.moe/AT-X/index.m3u8
+
 #EXTINF:-1 group-title="Japan" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
 https://ca01.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
-https://ca01.utako.moe/mnet/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://ca01.utako.moe/kayopops/index.m3u8
+
+
 #EXTINF:-1 group-title="Japan" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
 https://ca01.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 https://ca01.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://ca01.utako.moe/ntvgplus/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Japan" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
 https://ca01.utako.moe/familygeki/index.m3u8
+
 #EXTINF:-1 group-title="Japan" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
 https://ca01.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
@@ -119,65 +110,33 @@ https://ca01.utako.moe/fuji_next/index.m3u8
 https://ca01.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
 https://ca01.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://ca01.utako.moe/toei/index.m3u8
+
 #EXTINF:-1 group-title="Japan" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
 https://ca01.utako.moe/fighting_tv/index.m3u8
+
 #EXTINF:-1 group-title="Japan" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
 https://ca01.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
 https://ca01.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://ca01.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://ca01.utako.moe/gingach/index.m3u8
+
 #EXTINF:-1 group-title="Japan" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
 
 #EXTINF:-1 group-title="Japan" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs04
-#EXTINF:-1 group-title="Japan" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs27
-#EXTINF:-1 group-title="Japan" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs22
-#EXTINF:-1 group-title="Japan" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs20
-#EXTINF:-1 group-title="Japan" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs14
+
 #EXTINF:-1 group-title="Japan" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs05
-#EXTINF:-1 group-title="Japan" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs12
-#EXTINF:-1 group-title="Japan" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs26
-#EXTINF:-1 group-title="Japan" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="Japan" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs17
-#EXTINF:-1 group-title="Japan" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs03
+
 #EXTINF:-1 group-title="Japan" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs02
-#EXTINF:-1 group-title="Japan" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs21
-#EXTINF:-1 group-title="Japan" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=2&id=cs29
-#EXTINF:-1 group-title="Japan" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs26
-#EXTINF:-1 group-title="Japan" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs06
-#EXTINF:-1 group-title="Japan" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs13
-#EXTINF:-1 group-title="Japan" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs18
-#EXTINF:-1 group-title="Japan" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs19
-#EXTINF:-1 group-title="Japan" tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=2&id=cs28
+
+
+
+
 #EXTINF:-1 group-title="Japan" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs07
-#EXTINF:-1 group-title="Japan" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs25
+
 #EXTINF:-1 group-title="Japan" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan (Primehome) 
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs10
 #EXTINF:-1 group-title="Japan" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior (Primehome)
@@ -194,5 +153,6 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="Japan" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
